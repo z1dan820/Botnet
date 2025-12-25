@@ -1,0 +1,15 @@
+123456
+password
+123456789
+qwerty
+admin
+12345
+12345678
+password123
+root
+admin123
+welcome
+login
+pass123
+secret
+!@#$%^&*
